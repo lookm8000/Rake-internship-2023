@@ -1,0 +1,7 @@
+RAKE (Rapid Automatic Keyword Extraction) is a keyword extraction algorithm that is designed to identify important keywords or phrases from a given text document. It is particularly useful in text mining, information retrieval, and natural language processing tasks.
+
+The RAKE algorithm works by analyzing the co-occurrence patterns of words in the document. It identifies candidate keywords by splitting the text into individual words, removing stop words (commonly occurring words like "and," "the," "is," etc.), and then grouping the remaining words into candidate phrases based on their co-occurrence within a certain window of words.
+
+The co-occurrence patterns are measured using two main metrics: word frequency and word degree. Word frequency represents the number of times a word occurs in the text, while word degree is a measure of the number of distinct words that co-occur with a given word.
+
+RAKE calculates a score for each candidate phrase by combining the word frequency and word degree metrics. The scores help identify the most important keywords or phrases in the document. The algorithm then ranks the candidate phrases based on their scores and returns the top-ranked keywords as the final output.

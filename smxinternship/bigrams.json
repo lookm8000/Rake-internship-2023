@@ -1,0 +1,4522 @@
+{
+    "national guard": {
+        "count": 38,
+        "importance": 1.166
+    },
+    "missile defense": {
+        "count": 33,
+        "importance": 1.013
+    },
+    "task force": {
+        "count": 23,
+        "importance": 0.706
+    },
+    "social media": {
+        "count": 21,
+        "importance": 0.644
+    },
+    "fort knox": {
+        "count": 20,
+        "importance": 0.614
+    },
+    "infantry division": {
+        "count": 18,
+        "importance": 0.552
+    },
+    "army national": {
+        "count": 17,
+        "importance": 0.522
+    },
+    "army field": {
+        "count": 15,
+        "importance": 0.46
+    },
+    "field support": {
+        "count": 15,
+        "importance": 0.46
+    },
+    "sexual assault": {
+        "count": 15,
+        "importance": 0.46
+    },
+    "europe africa": {
+        "count": 14,
+        "importance": 0.43
+    },
+    "army reserve": {
+        "count": 14,
+        "importance": 0.43
+    },
+    "command control": {
+        "count": 13,
+        "importance": 0.399
+    },
+    "commanding general": {
+        "count": 12,
+        "importance": 0.368
+    },
+    "peo iew": {
+        "count": 12,
+        "importance": 0.368
+    },
+    "air force": {
+        "count": 12,
+        "importance": 0.368
+    },
+    "theater sustainment": {
+        "count": 12,
+        "importance": 0.368
+    },
+    "air defense": {
+        "count": 12,
+        "importance": 0.368
+    },
+    "sustainment command": {
+        "count": 11,
+        "importance": 0.338
+    },
+    "data science": {
+        "count": 11,
+        "importance": 0.338
+    },
+    "kama said": {
+        "count": 11,
+        "importance": 0.338
+    },
+    "brasher said": {
+        "count": 11,
+        "importance": 0.338
+    },
+    "airborne division": {
+        "count": 11,
+        "importance": 0.338
+    },
+    "army cyber": {
+        "count": 10,
+        "importance": 0.307
+    },
+    "life support": {
+        "count": 10,
+        "importance": 0.307
+    },
+    "united states": {
+        "count": 10,
+        "importance": 0.307
+    },
+    "food service": {
+        "count": 10,
+        "importance": 0.307
+    },
+    "palmer said": {
+        "count": 10,
+        "importance": 0.307
+    },
+    "said chiquita": {
+        "count": 10,
+        "importance": 0.307
+    },
+    "space missile": {
+        "count": 9,
+        "importance": 0.276
+    },
+    "air missile": {
+        "count": 9,
+        "importance": 0.276
+    },
+    "service members": {
+        "count": 9,
+        "importance": 0.276
+    },
+    "west point": {
+        "count": 9,
+        "importance": 0.276
+    },
+    "said fenderson": {
+        "count": 9,
+        "importance": 0.276
+    },
+    "command post": {
+        "count": 9,
+        "importance": 0.276
+    },
+    "fire prevention": {
+        "count": 9,
+        "importance": 0.276
+    },
+    "joint base": {
+        "count": 8,
+        "importance": 0.245
+    },
+    "african american": {
+        "count": 8,
+        "importance": 0.245
+    },
+    "materiel enterprise": {
+        "count": 8,
+        "importance": 0.245
+    },
+    "enterprise support": {
+        "count": 8,
+        "importance": 0.245
+    },
+    "base life": {
+        "count": 8,
+        "importance": 0.245
+    },
+    "military intelligence": {
+        "count": 8,
+        "importance": 0.245
+    },
+    "defense brigade": {
+        "count": 8,
+        "importance": 0.245
+    },
+    "sgt class": {
+        "count": 8,
+        "importance": 0.245
+    },
+    "support services": {
+        "count": 7,
+        "importance": 0.215
+    },
+    "said sal": {
+        "count": 7,
+        "importance": 0.215
+    },
+    "space battalion": {
+        "count": 7,
+        "importance": 0.215
+    },
+    "social engineering": {
+        "count": 7,
+        "importance": 0.215
+    },
+    "first responders": {
+        "count": 7,
+        "importance": 0.215
+    },
+    "training videos": {
+        "count": 7,
+        "importance": 0.215
+    },
+    "excellence awards": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "category presented": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "army air": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "said hughes": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "yang said": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "brigade combat": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "marine corps": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "migration team": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "freedom village": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "special operations": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "cte divoire": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "aberdeen proving": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "proving ground": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "face shields": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "said richmond": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "staff sgt": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "training command": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "division air": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "air assault": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "cohort program": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "aesip hub": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "coffman said": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "inf div": {
+        "count": 6,
+        "importance": 0.184
+    },
+    "rubio said": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "information operations": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "https arcyber": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "service excellence": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "working peo": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "battalion air": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "defense artillery": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "artillery regiment": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "nelson said": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "program executive": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "executive office": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "command army": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "ground force": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "resolute sentinel": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "intelligence security": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "security force": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "force assistance": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "caserma ederle": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "fort drum": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "jackie robinson": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "colorado army": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "law enforcement": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "force spartan": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "mcclung said": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "mission command": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "fort stewart": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "new soldiers": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "said linder": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "space badge": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "first place": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "fort devens": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "fort hood": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "make sure": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "ivy division": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "fire safety": {
+        "count": 5,
+        "importance": 0.153
+    },
+    "psychological operations": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "base san": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "san sam": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "sam houston": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "houston texas": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "installation contracting": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "contracting command": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "fort riley": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "air space": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "technical achievement": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "individual category": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "african americans": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "east side": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "side camp": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "north carolina": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "apache helicopter": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "security assistance": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "said floresrivera": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "floresrivera said": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "said signer": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "bravo battery": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "command sergeant": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "sergeant major": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "air base": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "logistics assistance": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "weapons systems": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "allies partners": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "american airman": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "new home": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "combat team": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "alaska national": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "first scouts": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "alaska scouts": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "partner nations": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "world war": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "war ii": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "africa data": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "science center": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "movement support": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "support branch": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "army space": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "media accounts": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "service member": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "personal information": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "national guards": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "tactical operations": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "ezzat said": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "high school": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "airborne brigade": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "schofield barracks": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "barracks hawaii": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "personal protective": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "protective equipment": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "pizzi said": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "fort carson": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "noble partner": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "said miele": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "space operations": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "army award": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "award maintenance": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "maintenance excellence": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "victim advocate": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "team members": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "signal brigade": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "deputy commanding": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "lessons learned": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "apg senior": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "small business": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "area operations": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "human resources": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "casualty operations": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "operations division": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "combined arms": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "said sgt": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "force bowie": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "force orion": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "americas first": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "first corps": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "dodge said": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "aviation assets": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "rental scams": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "maintenance section": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "mobile command": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "nato partners": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "change command": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "apg fire": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "said little": {
+        "count": 4,
+        "importance": 0.123
+    },
+    "camp saliyah": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "defense information": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "disa central": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "red ball": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "ball express": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "mission installation": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "awards government": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "presented mdas": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "defense training": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "afsb logcap": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "monico said": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "requiring activity": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "microsoft teams": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "aerial gunnery": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "leghorn army": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "army depot": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "bob hope": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "local national": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "vehicles equipment": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "training branch": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "radar set": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "brady said": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "tobruq arrows": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "next step": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "combat capabilities": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "capabilities development": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "development command": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "centers systems": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "hughes center": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "life cycle": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "support ppmx": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "work orders": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "veterans affairs": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "engineer company": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "operation resolute": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "army intelligence": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "information overload": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "intelligence analysts": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "said hopkins": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "service provider": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "amc ecma": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "service specialist": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "mi brigade": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "guard units": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "paul said": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "said hatfield": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "internet crime": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "tfs soldiers": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "force freedom": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "corps engineers": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "minutes earlier": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "point impact": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "army headquarters": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "become doctor": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "crosland said": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "dining facility": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "round robin": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "cbrne command": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "cold response": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "port opening": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "three weeks": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "airlift mission": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "airborne assault": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "airborne operation": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "said sumner": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "baby coming": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "said karbler": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "space enabled": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "fight tonight": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "combat operations": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "army medical": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "sharp program": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "garrison command": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "military children": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "product office": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "division unit": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "unit action": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "office command": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "army network": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "mission partner": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "cohort graduates": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "boots business": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "business program": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "business ownership": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "guzman said": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "press conference": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "fort hoods": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "tap division": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "division chief": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "videos serve": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "casualty reporting": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "best best": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "da level": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "operations research": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "armored vehicles": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "sharp walk": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "army training": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "kelley hill": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "alwyn cashe": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "force liberty": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "combat patch": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "much cashe": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "cashe family": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "farp operation": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "gunnery training": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "army community": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "major cybercrime": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "cybercrime unit": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "rental scam": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "said labarge": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "deposit first": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "months rent": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "army cid": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "fake listings": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "mccoy said": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "environmental services": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "post demonstration": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "partners allies": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "commanders conference": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "von sandrart": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "warfighter exercises": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "california national": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "uss constitution": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "smoke carbon": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "carbon monoxide": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "safety day": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "fire extinguisher": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "multiple types": {
+        "count": 3,
+        "importance": 0.092
+    },
+    "joined army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "going five": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "five years": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "new challenge": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "become astronaut": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "looking want": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "want stare": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "military civilian": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "information dimension": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "information advantage": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cyber command": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "decision dominance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "dominance influence": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "summit leaders": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "information systems": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "systems network": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "central facility": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "disn facilities": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "spartan shield": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "quality assurance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "james smith": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "command tsc": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "rich history": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "smith served": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said smith": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "contracting support": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "team redstone": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "redstone members": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "defense association": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "achievement service": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "local government": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "opportunity recognize": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "awards team": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "achievement awards": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "government individual": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "team effort": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "team category": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "award contractor": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "contractor individual": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "presented rcctos": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training team": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "computer science": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "high standard": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "standard excellence": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "black americans": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "product manager": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "best thing": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "thing working": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "honor working": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "working different": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "different levels": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "levels within": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "within peo": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "iew new": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "new team": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "team member": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "member barely": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "barely knows": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "knows acronyms": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "acronyms mean": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "mean supervisor": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "supervisor responsible": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "responsible success": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "success program": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "program importantly": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "importantly people": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "people work": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "work daily": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "daily said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "camp simba": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "power distribution": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "logistics civil": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "civil augmentation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "augmentation program": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "four generators": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "close maxing": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "requirements supporting": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "letter technical": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "technical direction": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "base operations": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "excellence award": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "via microsoft": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "attack battalion": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "carolina army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "longbow apache": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "koestering said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "risks involved": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "gunnery tables": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "helicopter battalions": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "route clearance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "clearance company": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "construction projects": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "river rock": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "get stuck": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "come soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said jones": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "bad days": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army cloud": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cloud plan": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "design software": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army must": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "recently army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "usns bob": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "stopping livorno": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "military police": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "mp units": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "national workforce": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "tech sgt": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "signer loadmaster": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "first mission": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "operation allies": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "allies refuge": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "first combat": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "combat mission": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "mission loadmaster": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "force reserve": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "aeromedical evacuation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "vulnerable afghans": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "slovakia early": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "defense command": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battery deployed": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said capt": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "commander delta": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "delta battery": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "nato territory": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "camp arifjan": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "support brigade": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "support sustainment": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "equipment said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "command sgt": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "sgt david": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "david nelson": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "davis said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said also": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "continue improve": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "erbil rpat": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "patriot lars": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "particular weapons": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "weapons system": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "rodney glaspie": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "systems well": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training offer": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said glaspie": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "patriot system": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said sanchez": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "course letterkenny": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "unique ways": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "key leader": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "leader engagements": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "proved critical": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battery commander": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "leaders soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "germany ada": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "junior leaders": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "joint combined": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "combined air": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "systems demonstration": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army futures": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "main battle": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battle tank": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army enterprise": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "chief centers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "demonstrate capability": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "prognostic predictive": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "predictive maintenance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "help army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "data back": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "platform enterprise": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cycle engineering": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "systems engineering": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "combat service": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "service support": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "common way": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "stakeholders evolve": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "capabilities support": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "data analysis": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "analysis center": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "systems center": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "idea american": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "american dream": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "basic training": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "airman yang": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "make dreams": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "dreams come": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "come true": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "force yang": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "may position": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "born good": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "good hand": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army garrison": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "garrison italy": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "enfield said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "submit maintenance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "maintenance request": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "force commander": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "get forces": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "forces deep": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "deep fight": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "gambell alaska": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "shot navy": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "bering sea": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "lawrence island": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "office veterans": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "alaska heroism": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "heroism medal": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "alaska army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said saxe": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "heroic actions": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said bowen": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "west virginia": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "guatemala provide": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "provide support": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "support operation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "soldiers worked": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "continue work": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "soldiers past": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "armored division": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "mikes experiences": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "italian immigrants": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "american heritage": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "article says": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "middleweight campaign": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "billy conn": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "back sports": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "signet ring": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "iron soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "small team": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "team contractors": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army southern": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "southern european": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "european task": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "force africa": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "africa army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "africa africa": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "intelligence requirements": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "security command": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "pilot program": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "data scientists": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "intelligence process": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "partnership data": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "data scientist": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "report national": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "national defense": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "defense authorization": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "authorization act": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "act cong": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said poles": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "assistance brigade": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "crisis conflict": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fawcett sfab": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "multinational joint": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fawcett said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "sfab teams": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "teams provide": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "advisor teams": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "three daughters": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "surprise visit": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "visit caserma": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "welcome back": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "greeted colombo": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "years ago": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "daughter said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "project management": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "loading unloading": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "first african": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "would lead": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "color barriers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "surrounding case": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "years old": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "familys legacy": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "law school": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "today kama": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "altess product": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "enterprise cloud": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "choice application": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "migration project": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "application owners": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "data center": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "joint task": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "makes army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "subsistence supply": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "additional duties": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "duties acting": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "acting food": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "safe healthy": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "healthy work": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "work environment": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "intelligence professionals": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "inscom mi": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "eighth army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "intelligence director": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "rok army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "command kim": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "colorado springs": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "two unique": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "administrative operational": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "control space": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "better align": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battalion missile": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "space support": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "relationship change": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "hatfield said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "support space": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "colorado guard": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "brigade space": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battalion colorado": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "watering hole": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "people dont": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cyber criminals": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "even though": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "protect information": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "information online": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fbis internet": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "crime complaint": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "complaint center": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "members social": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "create catfishing": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "online palmer": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "digital footprint": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "report offending": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "media platform": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cid tip": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "tip line": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "line cid": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "two weeks": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "miniature city": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "planned house": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "afghans team": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "operations center": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "largest annual": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "annual special": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "operations exercise": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "exercise participants": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "ghana cte": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "wilkerson logcap": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "logcap support": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "logcap services": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said wilkerson": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "sourcing solution": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "last year": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "smoke dust": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "two minutes": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "shaken attack": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "could still": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "still smell": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "smell smoke": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "team architects": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "evil act": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "gazed upon": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "every day": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "one year": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "years later": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "know could": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "retired corps": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "lea said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "many people": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "director defense": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "defense health": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "health agency": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "unconditional love": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "give back": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "parents supported": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "passion medicine": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said looking": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "even know": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "point said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "gone west": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "path chose": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "one things": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "things absolutely": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "continue serve": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "grow learn": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "four years": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "powidz poland": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "european command": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "assumes mission": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "operations equipment": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "afsbs program": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "transportation battalion": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "hccc operator": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "control systems": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "food options": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "complying italian": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "italian decree": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "transformed mensa": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said baldwin": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "zephyr uas": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "events led": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "unexpected termination": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "termination flight": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "ruck march": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "obstacle course": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "combat water": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "water survival": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "survival test": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "warrior competition": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army combat": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cbrn specialist": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "mental toughness": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cbrn related": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said master": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "master sgt": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "best cbrn": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cbrn warrior": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "afghan national": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "national army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "thirty kilometers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "taliban forces": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "instructor pilot": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "private first": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "first class": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "talk locals": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said convoy": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "convoy blocked": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "gunner told": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "ana truck": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "finally got": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "vehicle patrol": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "patrol base": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "ammo resupply": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "hollis darby": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army commendation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "soldiers cbrne": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "free time": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "time personal": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "create face": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "create personal": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "simple piece": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "piece plastic": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said arteche": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "apg area": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "face shield": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said ledder": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "need face": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "georgia army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battle handoff": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "handoff ceremony": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "soldiers joining": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "state university": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "morehead city": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "transportation brigade": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "surface deployment": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "deployment distribution": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "support global": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "rapid port": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said pizzi": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "secondary location": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "support structures": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "crews made": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "id like": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "like shout": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "hodge said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fms case": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "states panama": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said hodge": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army aviation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "communication networks": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said spc": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "brigade staff": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "gives us": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "company brigade": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "johnson field": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "intelligence specialties": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training areas": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "provide best": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "koontz said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "junior soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "find enemy": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "intelligence company": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "master fundamentals": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "preparing aircraft": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "rotor blades": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "ready go": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "vaziani training": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training area": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "area georgia": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "drop zone": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "linder also": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "also serves": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "saber junction": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "standard airborne": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "airborne training": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "wouldnt able": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "social distancing": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said youngblood": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "chiquita contractions": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "chiquita russell": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "told baby": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "delivered baby": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "successful delivery": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "delivery said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "apg first": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "test evaluation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "lifelong career": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "atec since": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "since may": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "miele graduated": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "college prep": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "prep courses": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "companies miele": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army materiel": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "analysis division": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "department army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "test command": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "weapons programs": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "change narrative": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army senior": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "set success": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "son kyle": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "senior executive": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "executive service": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "camp humphreys": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "units compete": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "maintenance division": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battalion also": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army units": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "maintenance operations": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "camp casey": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "logistics support": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "support operations": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "support army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "readiness support": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fort detrick": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "sexual harassment": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "harassment assault": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "amlc victim": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "denim day": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "medical materiel": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "saapm events": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "sharp challenge": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "step challenge": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "overall fun": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "kennedy said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "devens garrison": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fiscal year": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "troop labor": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said hernandez": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "hernandez explained": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army emergency": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "emergency relief": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "two incomes": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "aer loan": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "covid pandemic": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said mason": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "active duty": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "duty soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "guard reserve": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "im concerned": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "joint artillery": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "artillery exercise": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "makua valley": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "tropic lightning": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "lightning soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "word collector": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "children thrive": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "events like": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said nicole": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "series engines": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "aviation turbine": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "turbine engines": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "project office": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "flight hours": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "lead fleet": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fleet effort": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "soldier feedback": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "network brigade": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "integrated tactical": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "tactical network": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "validation exercise": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "network communications": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "network design": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "brigade levels": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "complexity division": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "project manager": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "iterative improvements": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "network designs": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "give commander": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "operational graphics": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "critical army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "reduce complexity": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "partner environment": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "environment airborne": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army mission": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "carson soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "open house": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "senior leadership": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "leadership cohort": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "program cohort": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "general army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cohort graduate": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said cohort": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "leadership lessons": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said according": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "intelligence surveillance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "surveillance reconnaissance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "work home": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "chief fixer": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "program helped": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "senior leaders": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "director devcom": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "military service": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "launch business": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "program guzman": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "developing business": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "business plan": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "willing take": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "take risk": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "owning business": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "williams pointed": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "great place": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "need launch": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "hoods tap": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "exemplary performance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "operations also": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "contingency operations": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "joint security": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "security area": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "operations tsc": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "food safe": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "safe sanitary": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "dfacs across": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "asc food": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "service enterprise": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "food program": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fort bragg": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "across army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "service employees": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "record training": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fort shafter": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training exercise": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "division level": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battle drills": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "additive manufacturing": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "peo eiss": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "gfebs cloud": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "transactions per": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "peo eis": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cloud services": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cloud migration": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "performance cloud": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cloud infrastructure": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "darien illinois": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "continued winning": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "winning streak": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "logistic excellence": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "phase ii": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "receiving first": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "unit category": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "category usarc": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "usarc da": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "maintenance supply": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army modernization": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "artificial intelligence": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "emerging techniques": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "desai sanders": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "national security": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said conflict": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said adding": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "strike first": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "deterrence business": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army also": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fighting vehicles": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "take hold": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "hold clear": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "clear land": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "class shannon": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "laps track": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "total laps": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "getting involved": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "sexual violence": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "joint multinational": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "multinational training": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training group": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "group ukraine": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "armed forces": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "systems equipment": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "arms joint": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "joint maneuver": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army europe": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "assumed mission": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "afu soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "learn army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "new technology": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "information technology": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "leaders stated": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "understanding preparing": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "preparing future": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "equipment systems": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "electromagnetic spectrum": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "low earth": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "earth orbit": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "navigation systems": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "class alwyn": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "dogface soldier": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "platoon sergeant": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cashes vehicle": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "vehicle struck": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "years since": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "stories cashe": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "brigade id": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "liberty patch": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "hes like": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "different said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fenderson continued": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "continued family": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "memory cashe": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fenderson said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "walking around": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "throughout brigade": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fenderson thats": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "squad leader": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "dodge remembers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "first sergeant": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "took care": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "cashe said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "walk trees": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "american romanian": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "romanian aviation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "future use": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "aviation units": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said french": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "specialist army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training complex": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "got chance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "bandit battalion": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "family day": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "theyre going": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "machine gun": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "successful without": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "criminal investigation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "scammers use": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "meet person": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "victim rental": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "ads scammers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "scammers often": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "send money": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "security deposit": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "first months": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "additional photos": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "unit continues": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army parachute": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "aviano air": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "mass production": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "production masks": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "dedicate event": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "knox virtual": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "virtual sharp": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "place month": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "survived sexual": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "take place": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "workout day": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "jlots operations": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "task organization": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "theater opening": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "tsc completed": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "completed course": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "also helps": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "soldiers understand": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "reserve soldiers": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "soldiers complete": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "complete course": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "public health": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "virus spread": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "jason wilson": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "activities like": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "german army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said david": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "division headquarters": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "division ability": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "mcp provides": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "army brig": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "deputy chief": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "chief staff": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "regular army": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "without national": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "guard said": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "atlantic resolve": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "training center": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "special forces": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "forces command": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "lincoln labs": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "inches apart": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "command battalion": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battalion aviation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "aviation regiment": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "theatre fixed": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fixed wing": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "wing battalion": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "telephonic change": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "command ceremony": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "battalion commander": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "provided aircraft": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "flying dragons": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said deon": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "reserve aviation": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "civilian capacity": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "national fire": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fire marshal": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "marshal training": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "extinguisher training": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "inspection team": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "detector maintenance": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fire inspector": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "fire marshals": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "bedroom kitchen": {
+        "count": 2,
+        "importance": 0.061
+    },
+    "said lyons": {
+        "count": 2,
+        "importance": 0.061
+    }
+}
